@@ -1,0 +1,29 @@
+html{
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:white;
+}
+
+header{
+    background-color: whitesmoke;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.menu a {
+    margin-left: 20px;
+    list-style: none;
+    text-decoration: none;
+    color:black
+}
+
+footer{
+    color:whitesmoke;
+    text-align:center;
+}
